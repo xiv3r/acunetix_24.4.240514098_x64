@@ -3,6 +3,7 @@
 
     git clone https://github.com/xiv3r/acunetix_24.4.240514098_x64.git
     cd acunetix_24.4.240514098_x64
+    wget https://github.com/xiv3r/acunetix_24.4.240514098_x64/releases/download/v24.4.240514098/acunetix_24.4.240514098_x64.sh
 
 1. Before installing the tool, add to your hosts file (usually /etc/hosts) at the end:
 ```
